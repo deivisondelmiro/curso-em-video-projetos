@@ -1,15 +1,15 @@
 # [Curso em Vídeo](https://www.cursoemvideo.com/)
 
-Estudos e projetos desenvolvidos a partir da plataforma 
+Projetos desenvolvidos a partir da plataforma 
 
 ## 📖 Sobre o Repositório
 
-Um repositório que contém todos os arquivos de estudos salvos, entre eles, projetos, exercícios sobre cada coisa aprendida e etc.
+Um repositório que contém todos os arquivos de projetos.
 
 ## 👨‍💻 Acesso aos Projetos
 > [Projeto Android](https://deivisondelmiro.github.io/projeto-android/)
 
-> [Projeto Social](https://deivisondelmiro.github.io/curso-em-video/Projetos/Projeto%20Social/projeto%20social%202.0/)
+> [Projeto Social](https://deivisondelmiro.github.io/curso-em-video-projetos/Projetos/Projeto%20Social/projeto%20social%202.0/)
 
 ## 🛠️ Tecnologias/Assuntos Estudados
 
